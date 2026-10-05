@@ -120,6 +120,8 @@ Users can filter the dashboard using:
 
 This allows users to explore sales performance from different business perspectives.
 
+<img width="607" height="340" alt="image" src="https://github.com/user-attachments/assets/21d97e38-613a-4324-b2ab-9df8f28e8d2c" />
+
 ---
 
 # 📈 Dashboard 2 — Sales Forecasting
@@ -136,6 +138,8 @@ The second dashboard focuses on historical sales trends and forecasting.
 - Interactive date filtering
 
 The forecasting dashboard helps understand the historical sales pattern and provides an estimate of future sales performance.
+
+<img width="601" height="342" alt="image" src="https://github.com/user-attachments/assets/c4fa0b8e-0004-4276-8cc0-c66042865cdb" />
 
 ---
 
