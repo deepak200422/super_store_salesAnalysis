@@ -42,7 +42,7 @@ The main objectives of this project are:
 
 ## 📂 Dataset
 
-The project uses a Super Store sales dataset containing information related to:
+The project uses a **Super Store sales** dataset containing information related to:
 
 - Order Date
 - Ship Date
